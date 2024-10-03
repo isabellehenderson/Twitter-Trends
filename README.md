@@ -1,9 +1,5 @@
 # Twitter Trends
 
-Here's a README for the Twitter Trends project:
-
-# Twitter Trends
-
 Twitter Trends is a Java-based project that simulates a Twitter-like platform, allowing users to analyze tweets, identify trends, and flag potentially sensitive content.
 
 ## Project Structure
